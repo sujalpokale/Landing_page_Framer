@@ -1,0 +1,21 @@
+{
+  "title": "Client Testimonials",
+  "fields": [
+    {
+      "id": 1,
+      "name": "Alicia Mendes",
+      "role": "Product Manager, HubSpot",
+      "feedback": "BoostFlow reduced manual work by 60% and increased cross-team visibility.",
+      "avatar": "/assets/avatar/alicia.webp",
+      "altText": "Portrait of Alicia Mendes"
+    },
+    {
+      "id": 2,
+      "name": "Karan Patel",
+      "role": "Engineering Lead, Swiggy",
+      "feedback": "The automation triggers alone paid for the tool in week one.",
+      "avatar": "/assets/avatar/karan.webp",
+      "altText": "Portrait of Karan Patel"
+    }
+  ]
+}

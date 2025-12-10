@@ -1,0 +1,26 @@
+{
+  "title": "Features List",
+  "fields": [
+    {
+      "id": 1,
+      "title": "Smart Automation",
+      "description": "Automate repetitive activities with adaptive AI triggers.",
+      "icon": "/assets/icons/automation.svg",
+      "altText": "Lightning automation icon"
+    },
+    {
+      "id": 2,
+      "title": "Seamless Integrations",
+      "description": "Connect with Slack, Jira, Notion, GitHub, and 40+ tools.",
+      "icon": "C:/Users/DELL/OneDrive/Desktop/portfolio/landing_page/landing_page_framer/assets/icons/automation.svg",
+      "altText": "Puzzle integration icon"
+    },
+    {
+      "id": 3,
+      "title": "Real-time Analytics",
+      "description": "Track project efficiency with live performance dashboards.",
+      "icon": "/assets/icons/system-intergration.svg",
+      "altText": "Analytics dashboard icon"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "FAQs",
+  "fields": [
+    {
+      "id": 1,
+      "question": "Is BoostFlow fully cloud-based?",
+      "answer": "Yes, all data sync and workflows run securely over cloud with zero local config."
+    },
+    {
+      "id": 2,
+      "question": "Do you offer onboarding?",
+      "answer": "Enterprise plans include a dedicated success manager + 1:1 setup."
+    }
+  ]
+}

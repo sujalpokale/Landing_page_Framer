@@ -1,0 +1,26 @@
+{
+  "title": "Pricing Plans",
+  "fields": [
+    {
+      "id": 1,
+      "planName": "Starter",
+      "price": "Free",
+      "billing": "No credit card required",
+      "features": ["5 automations", "Basic analytics", "Email support"]
+    },
+    {
+      "id": 2,
+      "planName": "Pro",
+      "price": "$19/month",
+      "billing": "Annual billing saves 20%",
+      "features": ["Unlimited automations", "Premium integrations", "Priority support"]
+    },
+    {
+      "id": 3,
+      "planName": "Enterprise",
+      "price": "Custom",
+      "billing": "Upon request",
+      "features": ["SSO", "Dedicated manager", "Custom access roles"]
+    }
+  ]
+}

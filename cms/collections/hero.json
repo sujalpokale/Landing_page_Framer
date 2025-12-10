@@ -1,0 +1,11 @@
+{
+  "title": "Hero Section",
+  "fields": {
+    "headline": "The Future of Productivity Starts Here",
+    "subHeadline": "AI-powered workflow automation that saves 10+ hours weekly.",
+    "ctaPrimary": "Get Started",
+    "ctaSecondary": "Watch Demo",
+    "heroImage": "/assets/hero/hero-main.webp",
+    "altText": "Dashboard interface showing automation analytics"
+  }
+}
